@@ -1,7 +1,7 @@
 public class BS_floor_of_num {
-     /*  ceiling of a no. is the greatest element
+     /*  The Ceiling of a no. is the greatest element
         in array which is smaller than or equal to 
-        the target element    */
+        the target element  */
         public static void main(String[] args) {
             int [] arr = {2,3,5,9,14,16,18};
             int target = 15;  /* if the target element is 4 then floor index would be equal to the 
