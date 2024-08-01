@@ -11,7 +11,7 @@ public class Linear_Search {
             }
         }
         if (isInArray){
-            System.out.println("the element is present in the array");
+            System.out.println("the element is present in the array") ;
 
         }
         else {
