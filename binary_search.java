@@ -8,7 +8,7 @@ public class binary_search {
     
             while(li<=hi){
                 if(arr[mi]==num){
-                    System.out.println("element is present at index " + mi);
+                    System.out.println("element is present at index " + mi) ;
                     break;
                 } else if (arr[mi]<num) {
                     li=mi+1;
